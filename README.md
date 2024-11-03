@@ -34,7 +34,7 @@ Previously I had made the same EIT device, this model is an improvement based on
 
 The Electrical Impedance Tomography (EIT) that is made consists of several components such as the AD9833 module, amplifier, High Pass Filter, instrument amplifier, VCCS, multi/demultiplexer, AC DC converter, ADC, and of course, the microcontroller which uses the ESP32-S2
 
-<img src="Assets/Image/DiagramEIT-V1_2.png" width=700></img>
+<img src="Assets/Image/DiagramEIT-V1_2.jpg" width=700></img>
 
 ---
 

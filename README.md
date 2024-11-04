@@ -60,7 +60,9 @@ Because R1 = R2 = R3 = R4 = 10KΩ, $A_{Howland} = 1$ , and $V_n = 0$
 
 $I_{VCCSOut} = \frac {V_p} {R_S} = \frac {V_p} {1000}$
 
-So, if using the same voltage as the previous version,
+So, if using the same voltage as the previous version which is around 0.5V, (Vrms at ±0.35V)
+
+<img src="Assets/Image/AC_output.jpg" width=650></img>
 
 $I_{VCCSOut} = \frac {500mV} {1000} = 0.5mA$
 
@@ -123,7 +125,7 @@ For the microcontroller, I use Wemos S2 Mini, a mini wifi boards based ESP32-S2F
 
 Real Result:
 
-<img src="Assets/Image/MYEIT.png" width=650></img>
+<img src="Assets/Image/MYEIT.jpg" width=650></img>
 
 [image]
 
